@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "Clipboard Manager Pro",
+  "version": "1.0.1",
+  "description": "Clipboard Manager Pro: save, search, favorite, and organize copied text. Themes, privacy-first, and one-click copy.",
+  "permissions": ["storage", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Clipboard Manager Pro"
+  },
+  "icons": {
+    "16": "icon16.png",
+    "32": "icon32.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["*.svg"],
+      "matches": ["http://*/*", "https://*/*"]
+    }
+  ],
+  "host_permissions": ["http://*/*", "https://*/*"],
+  "author": "SabalDev",
+  "minimum_chrome_version": "88"
+}

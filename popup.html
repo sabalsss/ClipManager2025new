@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Clipboard Manager Pro</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="main-content">
+    <div class="header">
+      <h2>Clipboard Manager Pro</h2>
+      <button id="settings-btn" class="settings-btn" title="Settings"></button>
+    </div>
+
+    <div id="copied-preview" style="display:none;"></div>
+    
+    <div class="tabs">
+      <button id="all-tab" class="tab-btn active">All</button>
+      <button id="favorites-tab" class="tab-btn">Favorites</button>
+    </div>
+    
+    <input id="search" placeholder="Search..." />
+    <div class="footer button-row">
+      <button id="download-btn" class="secondary-btn small-btn">
+        Save Text
+        <img src="text.svg" alt="Text" class="button-icon">
+      </button>
+      <button id="download-csv-btn" class="secondary-btn small-btn">
+        Save CSV
+        <img src="csv.svg" alt="CSV" class="button-icon">
+      </button>
+    </div>
+    
+    <div class="content-area">
+      <div id="all-content" class="tab-content active">
+        <ul id="snippets-list"></ul>
+      </div>
+      <div id="favorites-content" class="tab-content">
+        <ul id="favorites-list"></ul>
+      </div>
+    </div>
+    
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html> 
