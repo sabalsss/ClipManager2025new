@@ -1,6 +1,6 @@
 # Privacy Policy for Clip Manager 2025
 
-**Last updated:** [Current Date]
+**Last updated:** July 22
 
 ## Introduction
 
