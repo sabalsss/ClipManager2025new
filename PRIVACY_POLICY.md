@@ -1,10 +1,10 @@
-# Privacy Policy for Clipboard Manager Pro
+# Privacy Policy for Clip Manager 2025
 
 **Last updated:** [Current Date]
 
 ## Introduction
 
-Clipboard Manager Pro ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our Chrome extension.
+Clip Manager 2025 ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our Chrome extension.
 
 ## Information We Collect
 
@@ -111,4 +111,4 @@ Since all data is stored locally on your device, no international data transfers
 
 ---
 
-*This Privacy Policy is effective as of the date listed above and applies to all users of Clipboard Manager Pro.* 
+*This Privacy Policy is effective as of the date listed above and applies to all users of Clip Manager 2025.* 
