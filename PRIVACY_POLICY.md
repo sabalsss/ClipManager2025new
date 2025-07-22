@@ -86,12 +86,6 @@ This extension is not intended for children under 13. We do not knowingly collec
 
 We may update this Privacy Policy from time to time. We will notify users of any material changes by updating the "Last updated" date.
 
-## Contact Information
-
-If you have questions about this Privacy Policy, please contact us at:
-- Email: [your-email@example.com]
-- GitHub: [https://github.com/yourusername/clipboard-manager-pro]
-
 ## Compliance
 
 This extension complies with:
